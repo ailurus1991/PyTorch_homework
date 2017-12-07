@@ -1,0 +1,191 @@
+时间步 1000/ 状态 observe/ Epsilon 0.10/ 行动 0/ 奖励 0.1/ Q_MAX 4.510527e+00/ 轮得分 2.94
+时间步 2000/ 状态 observe/ Epsilon 0.10/ 行动 0/ 奖励 0.1/ Q_MAX 4.510527e+00/ 轮得分 2.73
+时间步 3000/ 状态 observe/ Epsilon 0.10/ 行动 0/ 奖励 0.1/ Q_MAX 4.510527e+00/ 轮得分 2.86
+时间步 4000/ 状态 observe/ Epsilon 0.10/ 行动 0/ 奖励 0.1/ Q_MAX 4.510527e+00/ 轮得分 2.91
+时间步 5000/ 状态 observe/ Epsilon 0.10/ 行动 0/ 奖励 0.1/ Q_MAX 4.510527e+00/ 轮得分 2.82
+时间步 6000/ 状态 observe/ Epsilon 0.10/ 行动 0/ 奖励 0.1/ Q_MAX 4.510527e+00/ 轮得分 2.84
+时间步 7000/ 状态 observe/ Epsilon 0.10/ 行动 0/ 奖励 0.1/ Q_MAX 4.510527e+00/ 轮得分 2.83
+时间步 8000/ 状态 observe/ Epsilon 0.10/ 行动 0/ 奖励 0.1/ Q_MAX 4.510527e+00/ 轮得分 2.78
+时间步 9000/ 状态 observe/ Epsilon 0.10/ 行动 0/ 奖励 0.1/ Q_MAX 4.510527e+00/ 轮得分 2.79
+时间步 10000/ 状态 observe/ Epsilon 0.10/ 行动 0/ 奖励 0.1/ Q_MAX 4.510527e+00/ 轮得分 2.80
+时间步 11000/ 状态 explore/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 3.800248e+00/ 轮得分 2.84
+时间步 12000/ 状态 explore/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 3.516031e+00/ 轮得分 2.91
+时间步 13000/ 状态 explore/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 3.134146e+00/ 轮得分 2.98
+时间步 14000/ 状态 explore/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 2.984318e+00/ 轮得分 3.03
+时间步 15000/ 状态 explore/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 2.840010e+00/ 轮得分 3.08
+时间步 16000/ 状态 explore/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 2.834957e+00/ 轮得分 3.12
+时间步 17000/ 状态 explore/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 2.845603e+00/ 轮得分 3.16
+时间步 18000/ 状态 explore/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 2.829625e+00/ 轮得分 3.20
+时间步 19000/ 状态 explore/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 2.829006e+00/ 轮得分 3.23
+时间步 1000/ 状态 observe/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 6.695516e+04/ 轮得分 3.89
+时间步 2000/ 状态 observe/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 6.623310e+04/ 轮得分 3.90
+时间步 3000/ 状态 observe/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 6.713660e+04/ 轮得分 3.90
+时间步 4000/ 状态 observe/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 6.762037e+04/ 轮得分 3.90
+时间步 5000/ 状态 observe/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 6.687478e+04/ 轮得分 3.90
+时间步 6000/ 状态 observe/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 6.728669e+04/ 轮得分 3.90
+时间步 7000/ 状态 observe/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 6.732848e+04/ 轮得分 3.90
+时间步 8000/ 状态 observe/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 6.737770e+04/ 轮得分 3.90
+时间步 9000/ 状态 observe/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 6.762037e+04/ 轮得分 3.90
+时间步 10000/ 状态 observe/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 6.698394e+04/ 轮得分 3.90
+时间步 11000/ 状态 explore/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 4.617732e+04/ 轮得分 3.90
+时间步 12000/ 状态 explore/ Epsilon 0.10/ 行动 0/ 奖励 0.1/ Q_MAX 3.484662e+04/ 轮得分 3.89
+时间步 13000/ 状态 explore/ Epsilon 0.10/ 行动 0/ 奖励 0.1/ Q_MAX 1.714284e+04/ 轮得分 3.82
+时间步 14000/ 状态 explore/ Epsilon 0.10/ 行动 0/ 奖励 0.1/ Q_MAX 1.186553e+04/ 轮得分 3.74
+时间步 1000/ 状态 observe/ Epsilon 0.10/ 行动 0/ 奖励 0.1/ Q_MAX 4.034825e+04/ 轮得分 2.63 at 0m 33s
+时间步 2000/ 状态 observe/ Epsilon 0.10/ 行动 0/ 奖励 0.1/ Q_MAX 3.715276e+04/ 轮得分 2.49 at 1m 6s
+时间步 3000/ 状态 observe/ Epsilon 0.10/ 行动 0/ 奖励 0.1/ Q_MAX 6.052124e+04/ 轮得分 2.72 at 1m 39s
+时间步 4000/ 状态 observe/ Epsilon 0.10/ 行动 0/ 奖励 0.1/ Q_MAX 5.501404e+04/ 轮得分 2.75 at 2m 12s
+时间步 5000/ 状态 observe/ Epsilon 0.10/ 行动 0/ 奖励 0.1/ Q_MAX 5.743227e+04/ 轮得分 2.84 at 2m 45s
+时间步 6000/ 状态 observe/ Epsilon 0.10/ 行动 0/ 奖励 0.1/ Q_MAX 3.637562e+04/ 轮得分 2.78 at 3m 18s
+时间步 7000/ 状态 observe/ Epsilon 0.10/ 行动 0/ 奖励 -1/ Q_MAX 5.331129e+04/ 轮得分 2.79 at 3m 51s
+时间步 8000/ 状态 observe/ Epsilon 0.10/ 行动 0/ 奖励 0.1/ Q_MAX 6.202578e+04/ 轮得分 2.75 at 4m 25s
+时间步 9000/ 状态 observe/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 5.498991e+04/ 轮得分 2.76 at 4m 58s
+时间步 10000/ 状态 observe/ Epsilon 0.10/ 行动 0/ 奖励 0.1/ Q_MAX 3.710617e+04/ 轮得分 2.74 at 5m 31s
+时间步 1000/ 状态 observe/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 6.508982e+04/ 轮得分 3.89 at 0m 33s
+时间步 2000/ 状态 observe/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 6.504958e+04/ 轮得分 3.90 at 1m 6s
+时间步 3000/ 状态 observe/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 6.555431e+04/ 轮得分 3.90 at 1m 39s
+时间步 4000/ 状态 observe/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 6.547889e+04/ 轮得分 3.90 at 2m 12s
+时间步 5000/ 状态 observe/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 6.505829e+04/ 轮得分 3.90 at 2m 45s
+时间步 6000/ 状态 observe/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 6.521572e+04/ 轮得分 3.90 at 3m 18s
+时间步 7000/ 状态 observe/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 6.443844e+04/ 轮得分 3.90 at 3m 51s
+时间步 8000/ 状态 observe/ Epsilon 0.10/ 行动 0/ 奖励 0.1/ Q_MAX 6.569430e+04/ 轮得分 3.90 at 4m 24s
+时间步 9000/ 状态 observe/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 6.526402e+04/ 轮得分 3.90 at 4m 58s
+时间步 10000/ 状态 observe/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 6.550384e+04/ 轮得分 3.90 at 5m 31s
+时间步 1000/ 状态 observe/ Epsilon 0.10/ 行动 0/ 奖励 0.1/ Q_MAX 6.021344e+04/ 轮得分 2.65 at 0m 33s
+时间步 2000/ 状态 observe/ Epsilon 0.10/ 行动 0/ 奖励 0.1/ Q_MAX 3.341866e+04/ 轮得分 2.75 at 1m 6s
+时间步 3000/ 状态 observe/ Epsilon 0.10/ 行动 0/ 奖励 0.1/ Q_MAX 3.882968e+04/ 轮得分 2.69 at 1m 39s
+时间步 4000/ 状态 observe/ Epsilon 0.10/ 行动 0/ 奖励 0.1/ Q_MAX 4.589470e+04/ 轮得分 2.64 at 2m 12s
+时间步 5000/ 状态 observe/ Epsilon 0.10/ 行动 0/ 奖励 0.1/ Q_MAX 4.523717e+04/ 轮得分 2.58 at 2m 45s
+时间步 6000/ 状态 observe/ Epsilon 0.10/ 行动 0/ 奖励 0.1/ Q_MAX 5.782857e+04/ 轮得分 2.57 at 3m 18s
+时间步 7000/ 状态 observe/ Epsilon 0.10/ 行动 0/ 奖励 0.1/ Q_MAX 3.668425e+04/ 轮得分 2.62 at 3m 51s
+时间步 8000/ 状态 observe/ Epsilon 0.10/ 行动 0/ 奖励 0.1/ Q_MAX 5.865250e+04/ 轮得分 2.58 at 4m 24s
+时间步 9000/ 状态 observe/ Epsilon 0.10/ 行动 0/ 奖励 0.1/ Q_MAX 5.556763e+04/ 轮得分 2.59 at 4m 58s
+时间步 10000/ 状态 observe/ Epsilon 0.10/ 行动 0/ 奖励 0.1/ Q_MAX 3.387613e+04/ 轮得分 2.60 at 5m 31s
+时间步 11000/ 状态 explore/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 2.300078e+04/ 轮得分 2.62 at 6m 38s
+时间步 12000/ 状态 explore/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 1.772545e+04/ 轮得分 2.70 at 7m 45s
+时间步 13000/ 状态 explore/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 1.385324e+04/ 轮得分 2.77 at 8m 52s
+时间步 14000/ 状态 explore/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 1.056926e+04/ 轮得分 2.84 at 10m 0s
+时间步 15000/ 状态 explore/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 7.935064e+03/ 轮得分 2.89 at 11m 7s
+时间步 16000/ 状态 explore/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 5.956454e+03/ 轮得分 2.94 at 12m 15s
+时间步 17000/ 状态 explore/ Epsilon 0.10/ 行动 0/ 奖励 0.1/ Q_MAX 7.479964e+03/ 轮得分 2.95 at 13m 22s
+时间步 18000/ 状态 explore/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 5.867081e+03/ 轮得分 3.00 at 14m 30s
+时间步 19000/ 状态 explore/ Epsilon 0.10/ 行动 0/ 奖励 0.1/ Q_MAX 4.636623e+03/ 轮得分 3.04 at 15m 38s
+时间步 20000/ 状态 explore/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 2.185041e+03/ 轮得分 3.08 at 16m 45s
+时间步 21000/ 状态 explore/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 1.668765e+03/ 轮得分 3.11 at 17m 51s
+时间步 22000/ 状态 explore/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 1.275246e+03/ 轮得分 3.14 at 18m 57s
+时间步 23000/ 状态 explore/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 9.545400e+02/ 轮得分 3.17 at 20m 3s
+时间步 24000/ 状态 explore/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 7.103889e+02/ 轮得分 3.20 at 21m 9s
+时间步 25000/ 状态 explore/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 5.230239e+02/ 轮得分 3.22 at 22m 16s
+时间步 26000/ 状态 explore/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 3.922557e+02/ 轮得分 3.24 at 23m 24s
+时间步 27000/ 状态 explore/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 2.867174e+02/ 轮得分 3.27 at 24m 30s
+时间步 28000/ 状态 explore/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 2.045548e+02/ 轮得分 3.29 at 25m 36s
+时间步 29000/ 状态 explore/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 1.454437e+02/ 轮得分 3.30 at 26m 44s
+时间步 30000/ 状态 explore/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 1.001325e+02/ 轮得分 3.32 at 27m 51s
+时间步 31000/ 状态 explore/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 6.574229e+01/ 轮得分 3.34 at 28m 59s
+时间步 32000/ 状态 explore/ Epsilon 0.10/ 行动 0/ 奖励 0.1/ Q_MAX 3.810049e+01/ 轮得分 3.35 at 30m 6s
+时间步 33000/ 状态 explore/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 1.935579e+01/ 轮得分 3.37 at 31m 13s
+时间步 34000/ 状态 explore/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 8.667350e+00/ 轮得分 3.38 at 32m 21s
+时间步 35000/ 状态 explore/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 4.834975e+00/ 轮得分 3.40 at 33m 29s
+时间步 36000/ 状态 explore/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 3.007089e+00/ 轮得分 3.41 at 34m 35s
+时间步 37000/ 状态 explore/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 2.814363e+00/ 轮得分 3.42 at 35m 42s
+时间步 38000/ 状态 explore/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 3.280192e+00/ 轮得分 3.43 at 36m 50s
+时间步 39000/ 状态 explore/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 5.165470e+00/ 轮得分 3.44 at 37m 56s
+时间步 40000/ 状态 explore/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 6.363109e+00/ 轮得分 3.45 at 39m 3s
+时间步 41000/ 状态 explore/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 8.943511e+00/ 轮得分 3.46 at 40m 11s
+时间步 42000/ 状态 explore/ Epsilon 0.10/ 行动 0/ 奖励 0.1/ Q_MAX 9.186708e+00/ 轮得分 3.47 at 41m 17s
+时间步 43000/ 状态 explore/ Epsilon 0.10/ 行动 0/ 奖励 0.1/ Q_MAX 1.013191e+01/ 轮得分 3.48 at 42m 23s
+时间步 44000/ 状态 explore/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 4.907916e+00/ 轮得分 3.49 at 43m 30s
+时间步 45000/ 状态 explore/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 1.086129e+01/ 轮得分 3.50 at 44m 37s
+时间步 46000/ 状态 explore/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 5.099397e+00/ 轮得分 3.51 at 45m 45s
+时间步 47000/ 状态 explore/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 6.956897e+00/ 轮得分 3.53 at 46m 51s
+时间步 48000/ 状态 explore/ Epsilon 0.10/ 行动 0/ 奖励 0.1/ Q_MAX 3.702346e+00/ 轮得分 3.56 at 48m 4s
+时间步 49000/ 状态 explore/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 3.372893e+00/ 轮得分 3.57 at 49m 12s
+时间步 50000/ 状态 explore/ Epsilon 0.10/ 行动 0/ 奖励 0.1/ Q_MAX 8.040120e+00/ 轮得分 3.61 at 50m 19s
+时间步 51000/ 状态 explore/ Epsilon 0.10/ 行动 0/ 奖励 0.1/ Q_MAX 6.157034e+00/ 轮得分 3.65 at 51m 25s
+时间步 52000/ 状态 explore/ Epsilon 0.10/ 行动 0/ 奖励 0.1/ Q_MAX 6.440870e+00/ 轮得分 3.67 at 52m 32s
+时间步 53000/ 状态 explore/ Epsilon 0.10/ 行动 0/ 奖励 0.1/ Q_MAX 1.274323e+00/ 轮得分 3.70 at 53m 39s
+时间步 54000/ 状态 explore/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 4.495517e-03/ 轮得分 3.73 at 54m 45s
+时间步 55000/ 状态 explore/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 2.884580e-02/ 轮得分 3.75 at 55m 53s
+时间步 56000/ 状态 explore/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 2.843794e+00/ 轮得分 3.78 at 56m 59s
+时间步 57000/ 状态 explore/ Epsilon 0.10/ 行动 0/ 奖励 0.1/ Q_MAX 2.878021e+00/ 轮得分 3.81 at 58m 7s
+时间步 58000/ 状态 explore/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 3.177136e+00/ 轮得分 3.85 at 59m 14s
+时间步 59000/ 状态 explore/ Epsilon 0.10/ 行动 0/ 奖励 0.1/ Q_MAX 3.158951e+00/ 轮得分 3.86 at 60m 21s
+时间步 60000/ 状态 explore/ Epsilon 0.10/ 行动 0/ 奖励 0.1/ Q_MAX 3.947120e+00/ 轮得分 3.89 at 61m 28s
+时间步 61000/ 状态 explore/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 3.606273e+00/ 轮得分 3.91 at 62m 35s
+时间步 62000/ 状态 explore/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 2.346162e+00/ 轮得分 3.92 at 63m 42s
+时间步 63000/ 状态 explore/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 2.946487e+00/ 轮得分 3.92 at 64m 48s
+时间步 64000/ 状态 explore/ Epsilon 0.10/ 行动 0/ 奖励 0.1/ Q_MAX 2.895609e+00/ 轮得分 3.92 at 65m 54s
+时间步 65000/ 状态 explore/ Epsilon 0.10/ 行动 0/ 奖励 0.1/ Q_MAX 3.038492e+00/ 轮得分 3.92 at 67m 2s
+时间步 66000/ 状态 explore/ Epsilon 0.10/ 行动 0/ 奖励 0.1/ Q_MAX 3.876579e+00/ 轮得分 3.92 at 68m 9s
+时间步 67000/ 状态 explore/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 2.645471e-02/ 轮得分 3.94 at 69m 16s
+时间步 68000/ 状态 explore/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 2.034551e-01/ 轮得分 3.94 at 70m 23s
+时间步 69000/ 状态 explore/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 3.469364e-01/ 轮得分 3.94 at 71m 30s
+时间步 70000/ 状态 explore/ Epsilon 0.10/ 行动 0/ 奖励 0.1/ Q_MAX 3.761455e+00/ 轮得分 3.94 at 72m 36s
+时间步 71000/ 状态 explore/ Epsilon 0.10/ 行动 0/ 奖励 0.1/ Q_MAX -5.865456e-01/ 轮得分 3.94 at 73m 43s
+时间步 72000/ 状态 explore/ Epsilon 0.10/ 行动 0/ 奖励 0.1/ Q_MAX -3.131962e-01/ 轮得分 3.94 at 74m 51s
+时间步 73000/ 状态 explore/ Epsilon 0.10/ 行动 0/ 奖励 0.1/ Q_MAX 1.432814e+00/ 轮得分 3.95 at 75m 58s
+时间步 74000/ 状态 explore/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 2.978426e+00/ 轮得分 3.95 at 77m 6s
+时间步 75000/ 状态 explore/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX -2.374347e-01/ 轮得分 3.95 at 78m 14s
+时间步 76000/ 状态 explore/ Epsilon 0.10/ 行动 0/ 奖励 0.1/ Q_MAX -4.764826e-01/ 轮得分 3.95 at 79m 38s
+时间步 77000/ 状态 explore/ Epsilon 0.10/ 行动 0/ 奖励 0.1/ Q_MAX -6.019388e-01/ 轮得分 3.95 at 80m 55s
+时间步 78000/ 状态 explore/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX -1.842071e-01/ 轮得分 3.95 at 82m 9s
+时间步 79000/ 状态 explore/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX -1.701633e-01/ 轮得分 3.95 at 84m 8s
+时间步 80000/ 状态 explore/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 1.226561e+00/ 轮得分 3.95 at 86m 17s
+时间步 81000/ 状态 explore/ Epsilon 0.10/ 行动 0/ 奖励 0.1/ Q_MAX 1.254577e+00/ 轮得分 3.95 at 88m 27s
+时间步 82000/ 状态 explore/ Epsilon 0.10/ 行动 0/ 奖励 0.1/ Q_MAX 1.012783e+00/ 轮得分 3.95 at 90m 36s
+时间步 83000/ 状态 explore/ Epsilon 0.10/ 行动 0/ 奖励 0.1/ Q_MAX 1.474992e+00/ 轮得分 3.95 at 92m 47s
+时间步 84000/ 状态 explore/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 2.339065e+00/ 轮得分 3.95 at 94m 55s
+时间步 85000/ 状态 explore/ Epsilon 0.10/ 行动 0/ 奖励 0.1/ Q_MAX 1.201050e+00/ 轮得分 3.96 at 97m 2s
+时间步 86000/ 状态 explore/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 9.264889e-01/ 轮得分 3.96 at 99m 11s
+时间步 87000/ 状态 explore/ Epsilon 0.10/ 行动 0/ 奖励 0.1/ Q_MAX 1.104157e+00/ 轮得分 3.96 at 101m 19s
+时间步 88000/ 状态 explore/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 4.815702e-01/ 轮得分 3.96 at 103m 26s
+时间步 89000/ 状态 explore/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 9.449560e-01/ 轮得分 3.96 at 105m 34s
+时间步 90000/ 状态 explore/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 8.404344e-01/ 轮得分 3.96 at 107m 45s
+时间步 91000/ 状态 explore/ Epsilon 0.10/ 行动 0/ 奖励 0.1/ Q_MAX 8.531609e-01/ 轮得分 3.96 at 109m 57s
+时间步 92000/ 状态 explore/ Epsilon 0.10/ 行动 0/ 奖励 0.1/ Q_MAX -2.928157e-01/ 轮得分 3.96 at 112m 6s
+时间步 93000/ 状态 explore/ Epsilon 0.10/ 行动 0/ 奖励 0.1/ Q_MAX 4.053951e+00/ 轮得分 3.97 at 114m 15s
+时间步 94000/ 状态 explore/ Epsilon 0.10/ 行动 0/ 奖励 0.1/ Q_MAX 3.433719e+00/ 轮得分 3.96 at 116m 23s
+时间步 95000/ 状态 explore/ Epsilon 0.10/ 行动 0/ 奖励 0.1/ Q_MAX 2.674574e-01/ 轮得分 3.97 at 118m 31s
+时间步 96000/ 状态 explore/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 6.622493e-01/ 轮得分 3.97 at 120m 37s
+时间步 97000/ 状态 explore/ Epsilon 0.10/ 行动 0/ 奖励 0.1/ Q_MAX 4.965824e-01/ 轮得分 3.97 at 122m 44s
+时间步 98000/ 状态 explore/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 4.095318e-01/ 轮得分 3.97 at 124m 54s
+时间步 99000/ 状态 explore/ Epsilon 0.10/ 行动 0/ 奖励 0.1/ Q_MAX -3.544351e-02/ 轮得分 3.97 at 127m 3s
+时间步 100000/ 状态 explore/ Epsilon 0.10/ 行动 0/ 奖励 0.1/ Q_MAX 2.067429e-01/ 轮得分 3.96 at 129m 11s
+时间步 101000/ 状态 explore/ Epsilon 0.10/ 行动 0/ 奖励 0.1/ Q_MAX 5.031400e-01/ 轮得分 3.96 at 131m 18s
+时间步 102000/ 状态 explore/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 7.744709e-01/ 轮得分 3.96 at 133m 25s
+时间步 103000/ 状态 explore/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 3.403599e-02/ 轮得分 3.96 at 135m 33s
+时间步 104000/ 状态 explore/ Epsilon 0.10/ 行动 0/ 奖励 0.1/ Q_MAX 3.791668e-01/ 轮得分 3.96 at 137m 41s
+时间步 105000/ 状态 explore/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX -1.465822e-01/ 轮得分 3.96 at 139m 48s
+时间步 106000/ 状态 explore/ Epsilon 0.10/ 行动 0/ 奖励 0.1/ Q_MAX -6.605072e-01/ 轮得分 3.96 at 141m 57s
+时间步 107000/ 状态 explore/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX -4.847145e-01/ 轮得分 3.95 at 144m 6s
+时间步 108000/ 状态 explore/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX -9.418563e-02/ 轮得分 3.95 at 146m 17s
+时间步 109000/ 状态 explore/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 4.304754e-01/ 轮得分 3.95 at 148m 24s
+时间步 110000/ 状态 explore/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 1.746846e+00/ 轮得分 3.95 at 150m 31s
+时间步 111000/ 状态 explore/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 1.638789e+00/ 轮得分 3.96 at 152m 40s
+时间步 112000/ 状态 explore/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 2.123701e+00/ 轮得分 3.96 at 154m 47s
+时间步 113000/ 状态 explore/ Epsilon 0.10/ 行动 0/ 奖励 0.1/ Q_MAX 3.713431e+00/ 轮得分 3.96 at 156m 54s
+时间步 114000/ 状态 explore/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 1.457592e+00/ 轮得分 3.96 at 159m 4s
+时间步 115000/ 状态 explore/ Epsilon 0.10/ 行动 0/ 奖励 0.1/ Q_MAX -5.175954e-01/ 轮得分 3.96 at 161m 10s
+时间步 116000/ 状态 explore/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 3.990925e-01/ 轮得分 3.97 at 163m 18s
+时间步 117000/ 状态 explore/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 7.934543e-02/ 轮得分 3.97 at 165m 26s
+时间步 118000/ 状态 explore/ Epsilon 0.10/ 行动 0/ 奖励 0.1/ Q_MAX 3.197436e+00/ 轮得分 3.97 at 167m 34s
+时间步 119000/ 状态 explore/ Epsilon 0.10/ 行动 0/ 奖励 0.1/ Q_MAX 2.340343e+00/ 轮得分 3.97 at 169m 40s
+时间步 120000/ 状态 explore/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 2.326283e+00/ 轮得分 3.97 at 171m 50s
+时间步 121000/ 状态 explore/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 3.232842e+00/ 轮得分 3.97 at 173m 58s
+时间步 122000/ 状态 explore/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 2.803474e+00/ 轮得分 3.97 at 176m 8s
+时间步 123000/ 状态 explore/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 1.605280e+00/ 轮得分 3.97 at 178m 17s
+时间步 124000/ 状态 explore/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 2.347952e+00/ 轮得分 3.97 at 180m 26s
+时间步 125000/ 状态 explore/ Epsilon 0.10/ 行动 0/ 奖励 0.1/ Q_MAX 3.215459e+00/ 轮得分 3.97 at 182m 34s
+时间步 126000/ 状态 explore/ Epsilon 0.10/ 行动 0/ 奖励 0.1/ Q_MAX 2.829906e+00/ 轮得分 3.97 at 184m 41s
+时间步 127000/ 状态 explore/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX -1.115255e+00/ 轮得分 3.97 at 186m 48s
+时间步 128000/ 状态 explore/ Epsilon 0.10/ 行动 0/ 奖励 0.1/ Q_MAX 3.289007e+00/ 轮得分 3.98 at 188m 54s
+时间步 129000/ 状态 explore/ Epsilon 0.10/ 行动 0/ 奖励 0.1/ Q_MAX -7.675521e-01/ 轮得分 3.98 at 191m 4s
+时间步 130000/ 状态 explore/ Epsilon 0.10/ 行动 0/ 奖励 0.1/ Q_MAX -7.348164e-01/ 轮得分 3.98 at 193m 13s
+时间步 131000/ 状态 explore/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 1.216745e+00/ 轮得分 3.98 at 195m 21s
+时间步 132000/ 状态 explore/ Epsilon 0.10/ 行动 0/ 奖励 0.1/ Q_MAX 1.332453e+00/ 轮得分 3.98 at 197m 28s
+时间步 133000/ 状态 explore/ Epsilon 0.10/ 行动 0/ 奖励 0.1/ Q_MAX 1.644660e+00/ 轮得分 3.98 at 199m 35s
+时间步 134000/ 状态 explore/ Epsilon 0.10/ 行动 0/ 奖励 0.1/ Q_MAX 2.637701e+00/ 轮得分 3.99 at 201m 45s
+时间步 135000/ 状态 explore/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 1.845223e+00/ 轮得分 3.99 at 203m 53s
+时间步 136000/ 状态 explore/ Epsilon 0.10/ 行动 1/ 奖励 0.1/ Q_MAX 3.344102e+00/ 轮得分 3.99 at 206m 2s
+时间步 137000/ 状态 explore/ Epsilon 0.10/ 行动 0/ 奖励 0.1/ Q_MAX -1.819723e-01/ 轮得分 3.99 at 208m 11s
+时间步 138000/ 状态 explore/ Epsilon 0.10/ 行动 0/ 奖励 0.1/ Q_MAX 1.551426e+00/ 轮得分 3.99 at 210m 20s
